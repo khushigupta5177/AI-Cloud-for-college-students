@@ -1,16 +1,54 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+# AI Cloud Lab for College Students
 
-Currently, two official plugins are available:
+A cloud-based coding platform designed for college students to practice programming, solve coding exercises, and improve their programming skills.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Project Overview
 
-## React Compiler
+AI Cloud Lab provides students with an online coding environment where they can write and practice Python programs without installing programming tools locally.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Frontend Technologies
 
-## Expanding the Oxlint configuration
+- React.js
+- Tailwind CSS
+- JavaScript
+- Monaco Editor
+- Lucide React
+- React Router
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Main Features
+
+- Student Dashboard
+- Online Python Code Editor
+- Coding Practice Exercises
+- AI Learning Assistant
+- Learning Notes
+- Student Progress Tracking
+
+## Project Status
+
+Frontend Development in Progress.
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/khushigupta5177/AI-Cloud-for-college-students.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start development server:
+
+```bash
+npm run dev
+```
+
+## Team Project
+
+AI Cloud Lab for College Students
